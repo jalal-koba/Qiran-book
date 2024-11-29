@@ -18,7 +18,7 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart'
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 import 'package:sizer/sizer.dart';
 
-import '../Model/message.dart';
+import '../Models/message.dart';
 import '../../network_common.dart';
 import '../../../main.dart';
 
