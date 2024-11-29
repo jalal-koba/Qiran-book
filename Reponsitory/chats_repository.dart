@@ -1,7 +1,7 @@
 import 'package:azwijn/data/models/user/chatModel.dart';
 import 'package:dio/dio.dart';
 
-import '../../network_common.dart';
+import '../network_common.dart';
 
 class ChatRepository {
   Future<List<Chat>> getChats() async {

@@ -2,7 +2,7 @@ import 'package:azwijn/data/models/subscription/create_subscription_model.dart';
 import 'package:azwijn/data/models/subscription/package.dart';
 import 'package:dio/dio.dart';
 
-import '../../../data/network_common.dart';
+import '../../data/network_common.dart';
 
 class SubscriptionRepository {
   const SubscriptionRepository();
